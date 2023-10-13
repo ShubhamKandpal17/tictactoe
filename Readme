@@ -1,0 +1,7 @@
+Install the required library(pygame)
+
+The game has ai that can play as O by default but can be tuned as per choice 
+
+Runner file contains the runner code of the program
+
+Tictactoe file contains the driver functions and AI 
